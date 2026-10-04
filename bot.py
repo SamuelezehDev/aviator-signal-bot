@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # Replace with your actual token from BotFather
-TOKEN = 8682890615:AAFURo7eBIuPld1G3SKs19TH16hzFlC4jkU
+TOKEN = "8682890615:AAFURo7eBIuPld1G3SKs19TH16hzFlC4jkU"
 
 # Set up basic logging
 logging.basicConfig(
