@@ -2,8 +2,8 @@ import logging
 from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
-# Your Bot Token from BotFather
-TOKEN = "8682890615:AAFURo7eBIuP1d1G3SKs19TH16hzFlC4jkU"
+# Replace this with the token BotFather gave you
+TOKEN = "8682890615:AAFURo7eBIuPld1G3SKs19TH16hzFlC4jkU"
 
 # Configure logging to monitor activity in Render logs
 logging.basicConfig(
